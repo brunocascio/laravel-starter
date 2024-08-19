@@ -25,3 +25,4 @@ wasmer run . --net
 > You may need to replace the absolute path of the current dir `$PWD` with `/app` in `bootstrap/cache/config.php`: `sed 's|'$PWD'|/app|g' bootstrap/cache/config.php > bootstrap/cache/config.php`.
 
 Open [http://127.0.0.1:8000](http://127.0.0.1:8000) with your browser to see your Laravel app.
+
