@@ -1,0 +1,8 @@
+domains:
+- laravel-starter-brunocascio.wasmer.app
+kind: wasmer.io/App.v0
+name: brunocascio-laravel-starter
+owner: brunocascio
+package: .
+scaling:
+  mode: single_concurrency
